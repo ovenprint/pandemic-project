@@ -1,0 +1,440 @@
+entity,indicator,date,value
+Cyprus,Daily hospital occupancy,2020-03-09,0.0
+Cyprus,Daily hospital occupancy,2020-03-10,0.0
+Cyprus,Daily hospital occupancy,2020-03-11,0.0
+Cyprus,Daily hospital occupancy,2020-03-12,0.0
+Cyprus,Daily hospital occupancy,2020-03-19,0.0
+Cyprus,Daily hospital occupancy,2020-03-26,21.0
+Cyprus,Daily hospital occupancy,2020-04-02,51.0
+Cyprus,Daily hospital occupancy,2020-04-09,51.0
+Cyprus,Daily hospital occupancy,2020-04-16,36.0
+Cyprus,Daily hospital occupancy,2020-04-23,31.0
+Cyprus,Daily hospital occupancy,2020-04-30,25.0
+Cyprus,Daily hospital occupancy,2020-05-07,19.0
+Cyprus,Daily hospital occupancy,2020-05-14,10.0
+Cyprus,Daily hospital occupancy,2020-05-21,8.0
+Cyprus,Daily hospital occupancy,2020-05-28,7.0
+Cyprus,Daily hospital occupancy,2020-06-04,7.0
+Cyprus,Daily hospital occupancy,2020-06-11,4.0
+Cyprus,Daily hospital occupancy,2020-06-18,2.0
+Cyprus,Daily hospital occupancy,2020-06-25,0.0
+Cyprus,Daily hospital occupancy,2020-07-02,1.0
+Cyprus,Daily hospital occupancy,2020-07-09,0.0
+Cyprus,Daily hospital occupancy,2020-07-16,0.0
+Cyprus,Daily hospital occupancy,2020-07-23,0.0
+Cyprus,Daily hospital occupancy,2020-07-30,6.0
+Cyprus,Daily hospital occupancy,2020-08-06,4.0
+Cyprus,Daily hospital occupancy,2020-08-13,3.0
+Cyprus,Daily hospital occupancy,2020-08-20,2.0
+Cyprus,Daily hospital occupancy,2020-08-27,5.0
+Cyprus,Daily hospital occupancy,2020-09-03,6.0
+Cyprus,Daily hospital occupancy,2020-09-10,4.0
+Cyprus,Daily hospital occupancy,2020-09-17,7.0
+Cyprus,Daily hospital occupancy,2020-09-24,12.0
+Cyprus,Daily hospital occupancy,2020-10-01,12.0
+Cyprus,Daily hospital occupancy,2020-10-08,8.0
+Cyprus,Daily hospital occupancy,2020-10-15,9.0
+Cyprus,Daily hospital occupancy,2020-10-22,26.0
+Cyprus,Daily hospital occupancy,2020-10-29,38.0
+Cyprus,Daily hospital occupancy,2020-11-05,65.0
+Cyprus,Daily hospital occupancy,2020-11-12,68.0
+Cyprus,Daily hospital occupancy,2020-11-19,81.0
+Cyprus,Daily hospital occupancy,2020-11-26,109.0
+Cyprus,Daily hospital occupancy,2020-12-03,124.0
+Cyprus,Daily hospital occupancy,2020-12-10,106.0
+Cyprus,Daily hospital occupancy,2020-12-17,115.0
+Cyprus,Daily hospital occupancy,2020-12-24,142.0
+Cyprus,Daily hospital occupancy,2020-12-31,160.0
+Cyprus,Daily hospital occupancy,2021-01-07,196.0
+Cyprus,Daily hospital occupancy,2021-01-14,202.0
+Cyprus,Daily hospital occupancy,2021-01-21,184.0
+Cyprus,Daily hospital occupancy,2021-01-28,153.0
+Cyprus,Daily hospital occupancy,2021-02-04,112.0
+Cyprus,Daily hospital occupancy,2021-02-11,94.0
+Cyprus,Daily hospital occupancy,2021-02-18,81.0
+Cyprus,Daily hospital occupancy,2021-02-25,82.0
+Cyprus,Daily hospital occupancy,2021-03-04,101.0
+Cyprus,Daily hospital occupancy,2021-03-11,185.0
+Cyprus,Daily hospital occupancy,2021-03-18,212.0
+Cyprus,Daily hospital occupancy,2021-03-25,196.0
+Cyprus,Daily hospital occupancy,2021-04-01,190.0
+Cyprus,Daily hospital occupancy,2021-04-08,207.0
+Cyprus,Daily hospital occupancy,2021-04-15,251.0
+Cyprus,Daily hospital occupancy,2021-04-22,296.0
+Cyprus,Daily hospital occupancy,2021-04-29,279.0
+Cyprus,Daily hospital occupancy,2021-05-06,247.0
+Cyprus,Daily hospital occupancy,2021-05-13,167.0
+Cyprus,Daily hospital occupancy,2021-05-20,134.0
+Cyprus,Daily hospital occupancy,2021-05-27,82.0
+Cyprus,Daily hospital occupancy,2021-06-03,58.0
+Cyprus,Daily hospital occupancy,2021-06-10,47.0
+Cyprus,Daily hospital occupancy,2021-06-17,41.0
+Cyprus,Daily hospital occupancy,2021-06-24,47.0
+Cyprus,Daily hospital occupancy,2021-07-01,59.0
+Cyprus,Daily hospital occupancy,2021-07-08,107.0
+Cyprus,Daily hospital occupancy,2021-07-15,181.0
+Cyprus,Daily hospital occupancy,2021-07-22,264.0
+Cyprus,Daily hospital occupancy,2021-07-29,283.0
+Cyprus,Daily hospital occupancy,2021-08-05,293.0
+Cyprus,Daily hospital occupancy,2021-08-12,276.0
+Cyprus,Daily hospital occupancy,2021-08-19,208.0
+Cyprus,Daily hospital occupancy,2021-08-26,178.0
+Cyprus,Daily hospital occupancy,2021-09-02,134.0
+Cyprus,Daily hospital occupancy,2021-09-09,119.0
+Cyprus,Daily hospital occupancy,2021-09-16,97.0
+Cyprus,Daily hospital occupancy,2021-09-23,80.0
+Cyprus,Daily hospital occupancy,2021-09-30,79.0
+Cyprus,Daily hospital occupancy,2021-10-07,60.0
+Cyprus,Daily hospital occupancy,2021-10-14,60.0
+Cyprus,Daily hospital occupancy,2021-10-21,58.0
+Cyprus,Daily hospital occupancy,2021-10-28,59.0
+Cyprus,Daily hospital occupancy,2021-11-04,73.0
+Cyprus,Daily hospital occupancy,2021-11-11,80.0
+Cyprus,Daily hospital occupancy,2021-11-18,86.0
+Cyprus,Daily hospital occupancy,2021-11-25,110.0
+Cyprus,Daily hospital occupancy,2021-12-02,112.0
+Cyprus,Daily hospital occupancy,2021-12-09,139.0
+Cyprus,Daily hospital occupancy,2021-12-16,165.0
+Cyprus,Daily hospital occupancy,2021-12-23,162.0
+Cyprus,Daily hospital occupancy,2021-12-30,178.0
+Cyprus,Daily hospital occupancy,2022-01-06,235.0
+Cyprus,Daily hospital occupancy,2022-01-13,259.0
+Cyprus,Daily hospital occupancy,2022-01-20,244.0
+Cyprus,Daily hospital occupancy,2022-01-27,226.0
+Cyprus,Daily hospital occupancy,2022-02-03,222.0
+Cyprus,Daily hospital occupancy,2022-02-10,198.0
+Cyprus,Daily hospital occupancy,2022-02-17,168.0
+Cyprus,Daily hospital occupancy,2022-02-24,167.0
+Cyprus,Daily hospital occupancy,2022-03-03,144.0
+Cyprus,Daily hospital occupancy,2022-03-10,113.0
+Cyprus,Daily hospital occupancy,2022-03-17,113.0
+Cyprus,Daily hospital occupancy,2022-03-24,151.0
+Cyprus,Daily hospital occupancy,2022-03-31,195.0
+Cyprus,Daily hospital occupancy,2022-04-07,208.0
+Cyprus,Daily hospital occupancy,2022-04-14,157.0
+Cyprus,Daily hospital occupancy,2022-04-21,108.0
+Cyprus,Daily hospital occupancy,2022-04-28,89.0
+Cyprus,Daily hospital occupancy,2022-05-05,60.0
+Cyprus,Daily ICU occupancy,2020-03-09,0.0
+Cyprus,Daily ICU occupancy,2020-03-10,0.0
+Cyprus,Daily ICU occupancy,2020-03-11,0.0
+Cyprus,Daily ICU occupancy,2020-03-12,0.0
+Cyprus,Daily ICU occupancy,2020-03-19,0.0
+Cyprus,Daily ICU occupancy,2020-03-26,6.0
+Cyprus,Daily ICU occupancy,2020-04-02,9.0
+Cyprus,Daily ICU occupancy,2020-04-09,12.0
+Cyprus,Daily ICU occupancy,2020-04-16,12.0
+Cyprus,Daily ICU occupancy,2020-04-23,10.0
+Cyprus,Daily ICU occupancy,2020-04-30,6.0
+Cyprus,Daily ICU occupancy,2020-05-07,5.0
+Cyprus,Daily ICU occupancy,2020-05-14,3.0
+Cyprus,Daily ICU occupancy,2020-05-21,4.0
+Cyprus,Daily ICU occupancy,2020-05-28,3.0
+Cyprus,Daily ICU occupancy,2020-06-04,3.0
+Cyprus,Daily ICU occupancy,2020-06-11,2.0
+Cyprus,Daily ICU occupancy,2020-06-18,1.0
+Cyprus,Daily ICU occupancy,2020-06-25,0.0
+Cyprus,Daily ICU occupancy,2020-07-02,0.0
+Cyprus,Daily ICU occupancy,2020-07-09,0.0
+Cyprus,Daily ICU occupancy,2020-07-16,0.0
+Cyprus,Daily ICU occupancy,2020-07-23,0.0
+Cyprus,Daily ICU occupancy,2020-07-30,0.0
+Cyprus,Daily ICU occupancy,2020-08-06,0.0
+Cyprus,Daily ICU occupancy,2020-08-13,0.0
+Cyprus,Daily ICU occupancy,2020-08-20,1.0
+Cyprus,Daily ICU occupancy,2020-08-27,1.0
+Cyprus,Daily ICU occupancy,2020-09-03,2.0
+Cyprus,Daily ICU occupancy,2020-09-10,1.0
+Cyprus,Daily ICU occupancy,2020-09-17,1.0
+Cyprus,Daily ICU occupancy,2020-09-24,0.0
+Cyprus,Daily ICU occupancy,2020-10-01,1.0
+Cyprus,Daily ICU occupancy,2020-10-08,2.0
+Cyprus,Daily ICU occupancy,2020-10-15,2.0
+Cyprus,Daily ICU occupancy,2020-10-22,2.0
+Cyprus,Daily ICU occupancy,2020-10-29,4.0
+Cyprus,Daily ICU occupancy,2020-11-05,5.0
+Cyprus,Daily ICU occupancy,2020-11-12,7.0
+Cyprus,Daily ICU occupancy,2020-11-19,10.0
+Cyprus,Daily ICU occupancy,2020-11-26,17.0
+Cyprus,Daily ICU occupancy,2020-12-03,14.0
+Cyprus,Daily ICU occupancy,2020-12-10,13.0
+Cyprus,Daily ICU occupancy,2020-12-17,14.0
+Cyprus,Daily ICU occupancy,2020-12-24,17.0
+Cyprus,Daily ICU occupancy,2020-12-31,27.0
+Cyprus,Daily ICU occupancy,2021-01-07,32.0
+Cyprus,Daily ICU occupancy,2021-01-14,37.0
+Cyprus,Daily ICU occupancy,2021-01-21,37.0
+Cyprus,Daily ICU occupancy,2021-01-28,35.0
+Cyprus,Daily ICU occupancy,2021-02-04,22.0
+Cyprus,Daily ICU occupancy,2021-02-11,24.0
+Cyprus,Daily ICU occupancy,2021-02-18,16.0
+Cyprus,Daily ICU occupancy,2021-02-25,13.0
+Cyprus,Daily ICU occupancy,2021-03-04,13.0
+Cyprus,Daily ICU occupancy,2021-03-11,20.0
+Cyprus,Daily ICU occupancy,2021-03-18,23.0
+Cyprus,Daily ICU occupancy,2021-03-25,29.0
+Cyprus,Daily ICU occupancy,2021-04-01,27.0
+Cyprus,Daily ICU occupancy,2021-04-08,31.0
+Cyprus,Daily ICU occupancy,2021-04-15,39.0
+Cyprus,Daily ICU occupancy,2021-04-22,38.0
+Cyprus,Daily ICU occupancy,2021-04-29,39.0
+Cyprus,Daily ICU occupancy,2021-05-06,33.0
+Cyprus,Daily ICU occupancy,2021-05-13,34.0
+Cyprus,Daily ICU occupancy,2021-05-20,31.0
+Cyprus,Daily ICU occupancy,2021-05-27,24.0
+Cyprus,Daily ICU occupancy,2021-06-03,15.0
+Cyprus,Daily ICU occupancy,2021-06-10,11.0
+Cyprus,Daily ICU occupancy,2021-06-17,9.0
+Cyprus,Daily ICU occupancy,2021-06-24,11.0
+Cyprus,Daily ICU occupancy,2021-07-01,9.0
+Cyprus,Daily ICU occupancy,2021-07-08,11.0
+Cyprus,Daily ICU occupancy,2021-07-15,19.0
+Cyprus,Daily ICU occupancy,2021-07-22,29.0
+Cyprus,Daily ICU occupancy,2021-07-29,41.0
+Cyprus,Daily ICU occupancy,2021-08-05,50.0
+Cyprus,Daily ICU occupancy,2021-08-12,55.0
+Cyprus,Daily ICU occupancy,2021-08-19,50.0
+Cyprus,Daily ICU occupancy,2021-08-26,38.0
+Cyprus,Daily ICU occupancy,2021-09-02,23.0
+Cyprus,Daily ICU occupancy,2021-09-09,18.0
+Cyprus,Daily ICU occupancy,2021-09-16,18.0
+Cyprus,Daily ICU occupancy,2021-09-23,16.0
+Cyprus,Daily ICU occupancy,2021-09-30,17.0
+Cyprus,Daily ICU occupancy,2021-10-07,13.0
+Cyprus,Daily ICU occupancy,2021-10-14,10.0
+Cyprus,Daily ICU occupancy,2021-10-21,11.0
+Cyprus,Daily ICU occupancy,2021-10-28,10.0
+Cyprus,Daily ICU occupancy,2021-11-04,9.0
+Cyprus,Daily ICU occupancy,2021-11-11,12.0
+Cyprus,Daily ICU occupancy,2021-11-18,16.0
+Cyprus,Daily ICU occupancy,2021-11-25,19.0
+Cyprus,Daily ICU occupancy,2021-12-02,21.0
+Cyprus,Daily ICU occupancy,2021-12-09,19.0
+Cyprus,Daily ICU occupancy,2021-12-16,22.0
+Cyprus,Daily ICU occupancy,2021-12-23,29.0
+Cyprus,Daily ICU occupancy,2021-12-30,39.0
+Cyprus,Daily ICU occupancy,2022-01-06,31.0
+Cyprus,Daily ICU occupancy,2022-01-13,33.0
+Cyprus,Daily ICU occupancy,2022-01-20,37.0
+Cyprus,Daily ICU occupancy,2022-01-27,38.0
+Cyprus,Daily ICU occupancy,2022-02-03,35.0
+Cyprus,Daily ICU occupancy,2022-02-10,18.0
+Cyprus,Daily ICU occupancy,2022-02-17,12.0
+Cyprus,Daily ICU occupancy,2022-02-24,16.0
+Cyprus,Daily ICU occupancy,2022-03-03,15.0
+Cyprus,Daily ICU occupancy,2022-03-10,8.0
+Cyprus,Daily ICU occupancy,2022-03-17,8.0
+Cyprus,Daily ICU occupancy,2022-03-24,7.0
+Cyprus,Daily ICU occupancy,2022-03-31,7.0
+Cyprus,Daily ICU occupancy,2022-04-07,7.0
+Cyprus,Daily ICU occupancy,2022-04-14,9.0
+Cyprus,Daily ICU occupancy,2022-04-21,10.0
+Cyprus,Daily ICU occupancy,2022-04-28,10.0
+Cyprus,Daily ICU occupancy,2022-05-05,7.0
+Cyprus,Weekly new hospital admissions,2020-04-26,5.999986607247487
+Cyprus,Weekly new ICU admissions,2020-04-26,1.9999955357491592
+Cyprus,Weekly new hospital admissions,2020-05-03,5.999986607247487
+Cyprus,Weekly new ICU admissions,2020-05-03,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-05-10,5.999986607247487
+Cyprus,Weekly new ICU admissions,2020-05-10,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-05-17,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-05-24,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-05-31,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-06-07,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-06-14,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-06-21,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-06-28,1.9999955357491592
+Cyprus,Weekly new hospital admissions,2020-07-19,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-07-26,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-08-02,7.999982142996655
+Cyprus,Weekly new ICU admissions,2020-08-02,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-08-09,3.9999910714983273
+Cyprus,Weekly new ICU admissions,2020-08-09,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-08-16,1.9999955357491592
+Cyprus,Weekly new hospital admissions,2020-08-23,3.9999910714983273
+Cyprus,Weekly new ICU admissions,2020-08-23,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-08-30,4.999988839372907
+Cyprus,Weekly new hospital admissions,2020-09-06,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-09-13,1.9999955357491592
+Cyprus,Weekly new ICU admissions,2020-09-13,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-09-20,5.999986607247487
+Cyprus,Weekly new hospital admissions,2020-09-27,14.999966518118738
+Cyprus,Weekly new ICU admissions,2020-09-27,1.9999955357491592
+Cyprus,Weekly new hospital admissions,2020-10-04,3.9999910714983273
+Cyprus,Weekly new ICU admissions,2020-10-04,2.999993303623748
+Cyprus,Weekly new hospital admissions,2020-10-11,6.999984375122065
+Cyprus,Weekly new hospital admissions,2020-10-18,28.999935268362908
+Cyprus,Weekly new ICU admissions,2020-10-18,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-10-25,32.99992633986119
+Cyprus,Weekly new ICU admissions,2020-10-25,3.9999910714983273
+Cyprus,Weekly new hospital admissions,2020-11-01,39.99991071498327
+Cyprus,Weekly new ICU admissions,2020-11-01,2.999993303623748
+Cyprus,Weekly new hospital admissions,2020-11-08,63.99985714397324
+Cyprus,Weekly new ICU admissions,2020-11-08,5.999986607247487
+Cyprus,Weekly new hospital admissions,2020-11-15,59.999866072474866
+Cyprus,Weekly new ICU admissions,2020-11-15,12.999970982369598
+Cyprus,Weekly new hospital admissions,2020-11-22,71.99983928696989
+Cyprus,Weekly new ICU admissions,2020-11-22,5.999986607247487
+Cyprus,Weekly new hospital admissions,2020-11-29,82.99981473359026
+Cyprus,Weekly new ICU admissions,2020-11-29,7.999982142996655
+Cyprus,Weekly new hospital admissions,2020-12-06,75.99983035846817
+Cyprus,Weekly new ICU admissions,2020-12-06,9.999977678745797
+Cyprus,Weekly new hospital admissions,2020-12-13,78.99982366209188
+Cyprus,Weekly new ICU admissions,2020-12-13,6.999984375122065
+Cyprus,Weekly new hospital admissions,2020-12-20,104.99976562683126
+Cyprus,Weekly new ICU admissions,2020-12-20,14.999966518118738
+Cyprus,Weekly new hospital admissions,2020-12-27,101.99977232320711
+Cyprus,Weekly new ICU admissions,2020-12-27,20.999953125366165
+Cyprus,Weekly new hospital admissions,2021-01-03,123.99972321644856
+Cyprus,Weekly new ICU admissions,2021-01-03,11.999973214494938
+Cyprus,Weekly new hospital admissions,2021-01-10,136.99969419881754
+Cyprus,Weekly new ICU admissions,2021-01-10,21.999950893240822
+Cyprus,Weekly new hospital admissions,2021-01-17,116.99973884132609
+Cyprus,Weekly new ICU admissions,2021-01-17,26.999939732613676
+Cyprus,Weekly new hospital admissions,2021-01-24,94.99978794808555
+Cyprus,Weekly new ICU admissions,2021-01-24,15.99996428599331
+Cyprus,Weekly new hospital admissions,2021-01-31,69.99984375122067
+Cyprus,Weekly new ICU admissions,2021-01-31,8.999979910871227
+Cyprus,Weekly new hospital admissions,2021-02-07,69.99984375122067
+Cyprus,Weekly new ICU admissions,2021-02-07,6.999984375122065
+Cyprus,Weekly new hospital admissions,2021-02-14,53.99987946522735
+Cyprus,Weekly new ICU admissions,2021-02-14,10.999975446620367
+Cyprus,Weekly new hospital admissions,2021-02-21,65.99985267972238
+Cyprus,Weekly new ICU admissions,2021-02-21,9.999977678745797
+Cyprus,Weekly new hospital admissions,2021-02-28,59.999866072474866
+Cyprus,Weekly new ICU admissions,2021-02-28,2.999993303623748
+Cyprus,Weekly new hospital admissions,2021-03-07,106.9997611625804
+Cyprus,Weekly new ICU admissions,2021-03-07,8.999979910871227
+Cyprus,Weekly new hospital admissions,2021-03-14,177.99960268167538
+Cyprus,Weekly new ICU admissions,2021-03-14,23.999946428989965
+Cyprus,Weekly new hospital admissions,2021-03-21,166.99962723505556
+Cyprus,Weekly new ICU admissions,2021-03-21,17.999959821742454
+Cyprus,Weekly new hospital admissions,2021-03-28,145.9996741096891
+Cyprus,Weekly new ICU admissions,2021-03-28,23.999946428989965
+Cyprus,Weekly new hospital admissions,2021-04-04,150.99966294906153
+Cyprus,Weekly new ICU admissions,2021-04-04,20.999953125366165
+Cyprus,Weekly new hospital admissions,2021-04-11,175.99960714592623
+Cyprus,Weekly new ICU admissions,2021-04-11,23.999946428989965
+Cyprus,Weekly new hospital admissions,2021-04-18,203.99954464641422
+Cyprus,Weekly new ICU admissions,2021-04-18,26.999939732613676
+Cyprus,Weekly new hospital admissions,2021-04-25,248.99944420077122
+Cyprus,Weekly new ICU admissions,2021-04-25,23.999946428989965
+Cyprus,Weekly new hospital admissions,2021-05-02,226.99949330752975
+Cyprus,Weekly new ICU admissions,2021-05-02,21.999950893240822
+Cyprus,Weekly new hospital admissions,2021-05-09,185.99958482467193
+Cyprus,Weekly new ICU admissions,2021-05-09,17.999959821742454
+Cyprus,Weekly new hospital admissions,2021-05-16,110.9997522340787
+Cyprus,Weekly new ICU admissions,2021-05-16,15.99996428599331
+Cyprus,Weekly new hospital admissions,2021-05-23,66.99985044759696
+Cyprus,Weekly new ICU admissions,2021-05-23,12.999970982369598
+Cyprus,Weekly new hospital admissions,2021-05-30,34.99992187561033
+Cyprus,Weekly new ICU admissions,2021-05-30,4.999988839372907
+Cyprus,Weekly new hospital admissions,2021-06-06,21.999950893240822
+Cyprus,Weekly new ICU admissions,2021-06-06,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2021-06-13,20.999953125366165
+Cyprus,Weekly new ICU admissions,2021-06-13,5.999986607247487
+Cyprus,Weekly new hospital admissions,2021-06-20,34.99992187561033
+Cyprus,Weekly new ICU admissions,2021-06-20,7.999982142996655
+Cyprus,Weekly new hospital admissions,2021-06-27,32.99992633986119
+Cyprus,Weekly new ICU admissions,2021-06-27,1.9999955357491592
+Cyprus,Weekly new hospital admissions,2021-07-04,76.99982812634275
+Cyprus,Weekly new ICU admissions,2021-07-04,10.999975446620367
+Cyprus,Weekly new hospital admissions,2021-07-11,130.99970759157011
+Cyprus,Weekly new ICU admissions,2021-07-11,9.999977678745797
+Cyprus,Weekly new hospital admissions,2021-07-18,200.99955134279094
+Cyprus,Weekly new ICU admissions,2021-07-18,21.999950893240822
+Cyprus,Weekly new hospital admissions,2021-07-25,233.99947768265218
+Cyprus,Weekly new ICU admissions,2021-07-25,25.999941964739104
+Cyprus,Weekly new hospital admissions,2021-08-01,230.99948437902805
+Cyprus,Weekly new ICU admissions,2021-08-01,30.999930804112047
+Cyprus,Weekly new hospital admissions,2021-08-08,202.9995468785401
+Cyprus,Weekly new ICU admissions,2021-08-08,30.999930804112047
+Cyprus,Weekly new hospital admissions,2021-08-15,147.99966964543825
+Cyprus,Weekly new ICU admissions,2021-08-15,30.999930804112047
+Cyprus,Weekly new hospital admissions,2021-08-22,124.99972098432266
+Cyprus,Weekly new ICU admissions,2021-08-22,18.999957589617022
+Cyprus,Weekly new hospital admissions,2021-08-29,91.99979464446139
+Cyprus,Weekly new ICU admissions,2021-08-29,10.999975446620367
+Cyprus,Weekly new hospital admissions,2021-09-05,91.99979464446139
+Cyprus,Weekly new ICU admissions,2021-09-05,8.999979910871227
+Cyprus,Weekly new hospital admissions,2021-09-12,72.99983705484445
+Cyprus,Weekly new ICU admissions,2021-09-12,13.999968750244166
+Cyprus,Weekly new hospital admissions,2021-09-19,54.99987723310201
+Cyprus,Weekly new ICU admissions,2021-09-19,12.999970982369598
+Cyprus,Weekly new hospital admissions,2021-09-26,39.99991071498327
+Cyprus,Weekly new ICU admissions,2021-09-26,14.999966518118738
+Cyprus,Weekly new hospital admissions,2021-10-03,31.99992857198662
+Cyprus,Weekly new ICU admissions,2021-10-03,4.999988839372907
+Cyprus,Weekly new hospital admissions,2021-10-10,29.999933036237476
+Cyprus,Weekly new ICU admissions,2021-10-10,3.9999910714983273
+Cyprus,Weekly new hospital admissions,2021-10-17,36.99991741135956
+Cyprus,Weekly new ICU admissions,2021-10-17,5.999986607247487
+Cyprus,Weekly new hospital admissions,2021-10-24,35.99991964348491
+Cyprus,Weekly new ICU admissions,2021-10-24,6.999984375122065
+Cyprus,Weekly new hospital admissions,2021-10-31,44.999899554356126
+Cyprus,Weekly new ICU admissions,2021-10-31,8.999979910871227
+Cyprus,Weekly new hospital admissions,2021-11-07,38.999912947108704
+Cyprus,Weekly new ICU admissions,2021-11-07,4.999988839372907
+Cyprus,Weekly new hospital admissions,2021-11-14,58.9998683046003
+Cyprus,Weekly new ICU admissions,2021-11-14,11.999973214494938
+Cyprus,Weekly new hospital admissions,2021-11-21,67.99984821547152
+Cyprus,Weekly new ICU admissions,2021-11-21,9.999977678745797
+Cyprus,Weekly new hospital admissions,2021-11-28,73.99983482271905
+Cyprus,Weekly new ICU admissions,2021-11-28,12.999970982369598
+Cyprus,Weekly new hospital admissions,2021-12-05,82.99981473359026
+Cyprus,Weekly new ICU admissions,2021-12-05,16.99996205386788
+Cyprus,Weekly new hospital admissions,2021-12-12,106.9997611625804
+Cyprus,Weekly new ICU admissions,2021-12-12,16.99996205386788
+Cyprus,Weekly new hospital admissions,2021-12-19,122.99972544857353
+Cyprus,Weekly new ICU admissions,2021-12-19,21.999950893240822
+Cyprus,Weekly new hospital admissions,2021-12-26,105.99976339470538
+Cyprus,Weekly new ICU admissions,2021-12-26,19.999955357491594
+Cyprus,Weekly new hospital admissions,2022-01-02,135.9996964309434
+Cyprus,Weekly new ICU admissions,2022-01-02,19.999955357491594
+Cyprus,Weekly new hospital admissions,2022-01-09,206.99953795003836
+Cyprus,Weekly new ICU admissions,2022-01-09,20.999953125366165
+Cyprus,Weekly new hospital admissions,2022-01-16,204.9995424142892
+Cyprus,Weekly new ICU admissions,2022-01-16,30.999930804112047
+Cyprus,Weekly new hospital admissions,2022-01-23,167.99962500292966
+Cyprus,Weekly new ICU admissions,2022-01-23,21.999950893240822
+Cyprus,Weekly new hospital admissions,2022-01-30,148.99966741331238
+Cyprus,Weekly new ICU admissions,2022-01-30,13.999968750244166
+Cyprus,Weekly new hospital admissions,2022-02-06,164.9996316993064
+Cyprus,Weekly new ICU admissions,2022-02-06,15.99996428599331
+Cyprus,Weekly new hospital admissions,2022-02-13,145.9996741096891
+Cyprus,Weekly new ICU admissions,2022-02-13,14.999966518118738
+Cyprus,Weekly new hospital admissions,2022-02-20,151.99966071693652
+Cyprus,Weekly new ICU admissions,2022-02-20,13.999968750244166
+Cyprus,Weekly new hospital admissions,2022-02-27,115.99974107345109
+Cyprus,Weekly new ICU admissions,2022-02-27,8.999979910871227
+Cyprus,Weekly new hospital admissions,2022-03-06,170.9996183065538
+Cyprus,Weekly new ICU admissions,2022-03-06,8.999979910871227
+Cyprus,Weekly new hospital admissions,2022-03-13,188.9995781282961
+Cyprus,Weekly new ICU admissions,2022-03-13,10.999975446620367
+Cyprus,Weekly new hospital admissions,2022-03-20,318.99928795199116
+Cyprus,Weekly new ICU admissions,2022-03-20,11.999973214494938
+Cyprus,Weekly new hospital admissions,2022-03-27,355.99920536335077
+Cyprus,Weekly new ICU admissions,2022-03-27,5.999986607247487
+Cyprus,Weekly new hospital admissions,2022-04-03,361.9991919705982
+Cyprus,Weekly new ICU admissions,2022-04-03,12.999970982369598
+Cyprus,Weekly new hospital admissions,2022-04-10,319.9992857198662
+Cyprus,Weekly new ICU admissions,2022-04-10,9.999977678745797
+Cyprus,Weekly new hospital admissions,2022-04-17,173.9996116101771
+Cyprus,Weekly new ICU admissions,2022-04-17,5.999986607247487
+Cyprus,Weekly new hospital admissions,2022-04-24,119.99973214494939
+Cyprus,Weekly new ICU admissions,2022-04-24,5.999986607247487
+Cyprus,Weekly new hospital admissions,2022-05-01,87.99980357296319
+Cyprus,Weekly new ICU admissions,2022-05-01,5.999986607247487
+Cyprus,Weekly new hospital admissions,2020-03-08,0.9999977678745796
+Cyprus,Weekly new hospital admissions,2020-03-15,7.999982142996655
+Cyprus,Weekly new hospital admissions,2020-03-22,22.999948661115393
+Cyprus,Weekly new ICU admissions,2020-03-22,5.999986607247487
+Cyprus,Weekly new hospital admissions,2020-03-29,52.99988169735278
+Cyprus,Weekly new ICU admissions,2020-03-29,15.99996428599331
+Cyprus,Weekly new hospital admissions,2020-04-05,36.99991741135956
+Cyprus,Weekly new ICU admissions,2020-04-05,8.999979910871227
+Cyprus,Weekly new hospital admissions,2020-04-12,19.999955357491594
+Cyprus,Weekly new ICU admissions,2020-04-12,7.999982142996655
+Cyprus,Weekly new hospital admissions,2020-04-19,10.999975446620367
+Cyprus,Weekly new ICU admissions,2020-04-19,2.999993303623748
+Cyprus,Weekly new hospital admissions,2022-05-08,29.999933036237476
